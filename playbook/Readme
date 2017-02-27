@@ -1,0 +1,1 @@
+deploy.yml playbook will lauch an instance of m1.small type image is centos7 network is private and also configure ssh and also added to host under webserver group.
